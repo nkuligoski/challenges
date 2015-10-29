@@ -101,4 +101,3 @@ Various programming challenges. Initial challenge found [here](https://github.co
 * Little Man Computer Simulator
 * Basic LISP Interpreter
 * Hailstone Sequence
-* 
