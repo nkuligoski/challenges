@@ -16,7 +16,7 @@ Various programming challenges. Initial challenge found [here](https://github.co
 * Haiku Generator
 * Magic Eight Ball
 * Collatz Conjecture
-* Reverse a string
+* ~~Reverse a string~~
 * Count the Vowels in a string
 * Count the words in a string
 * Minesweeper
