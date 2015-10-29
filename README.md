@@ -11,7 +11,7 @@ Various programming challenges. Initial challenge found [here](https://github.co
 * Hangman
 * Love Calculator
 * Pseudorandom Quote Generator
-* Password Generator
+* ~~Password Generator~~
 * Atomically Correct Time from an internet clock
 * Haiku Generator
 * Magic Eight Ball
