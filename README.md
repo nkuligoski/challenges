@@ -3,7 +3,7 @@ Various programming challenges. Initial challenge found [here](https://github.co
 
 * Name Generator
 * Higher or Lower / Heads or tails
-* Temperature Converter
+* ~~Temperature Converter~~
 * Calculate your Age in Seconds
 * Simple Encryption / Decryption
 * FizzBuzz
