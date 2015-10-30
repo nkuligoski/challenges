@@ -2,7 +2,7 @@
 Various programming challenges. Initial challenge found [here](https://github.com/keplr/programming-projects-for-n00bz). I may also include other challenges found scattered across the web.
 
 * Name Generator
-* Higher or Lower / Heads or tails
+* ~~Higher or Lower / Heads or tails~~
 * ~~Temperature Converter~~
 * Calculate your Age in Seconds
 * Simple Encryption / Decryption
